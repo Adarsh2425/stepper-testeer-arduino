@@ -1,1 +1,1 @@
-# stepper-testeer-arduino
+# stepper-tester-arduino
